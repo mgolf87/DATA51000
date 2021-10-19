@@ -27,20 +27,18 @@ For this analysis three datasets were used, two of the raw datasets (Cancer Prot
 <br />
 
 ### Week 4 Assignment - Association Rule Mining: 
-#### SmokerVNon_Smoker_DATA51000A4.ows and DATA_51000_Assignment4_MGolf.docx
+#### SmokerVNon_Smoker_DATA51000A4.ows and DATA_51000_Assignment4_MGolf-converted.pdf
 Identification of candidate gene targets for therapeutic intervention to rescue gene expression in B cells from smoker to non-smoker levels. Smoking continues across multiple cultures and generations despite the known consequences and risks associated with it. In particular B cell changes are known to be directly associated to the onset of smoking-related diseases. Therefore, we sought to identify association rules of gene expression data for female smokers compared to female non-smokers (control). In doing so, we hope to uncover differential gene associations between groups which may identify candidate gene targets for intervention to reverse the effects of smoking observed in B cells. Since we are identifying candidate gene targets for intervention, we will mainly consider associations between a single gene and a set of genes. Data was accessed through the in-built dataset feature of Orange. The attached document is the report resultant from the analysis of B cells from smoker and non-smoker populations.
 
 <br />
 
 ### Week 5 Assignment - Supervised Learning: 
-#### DATA51000_Assignment5_MGolf.ows and DATA51000_Assignment5_MGolf.docx
+#### DATA51000_Assignment5_MGolf.ows and DATA51000_Assignment5_MGolf-converted.pdf
 Predicting transplant success based on gene expression values in kidney tissue and peripheral blood lymphocytes. Understanding the likelihood of rejection or acceptance and the degree of either is important in determining which patient may be best suited for transplant priority. Current intervention methods are based around the use of immunosuppressants to ensure the host immune system does not reject the transplanted organ. Additional intervention may be possible through targeted therapeutic administration that changes the gene expression landscape from all states (acute rejection, dysfunction, etc.) to the well-functioning transplant gene expression landscape, thus ensuring transplant viability and patient health. Data was obtained through the in-built GEO dataset feature of Orange using their bioinformatics add-on package. Data was visualized using manifold learning to reduce the dimensionality of the data and to visualize the inherent transplant status subgroups within, while also preserving any non-linear relationships. Splitting the data into training and testing sets was done by randomly sampling 90% of the data for the training set and 10% of the data for the testing set. Next, we ran the training data through multiple different techniques such as: tree, random forest, gradient boosting, kNN, and adaBoost tuning the parameters with cross-validation.
 
 
 <br />
 
 ### Week 6 Assignment - Link Analysis: 
-#### DATA51000_Assignment5_MGolf.ows
-##### (requires mlclass.py)
-Perceptron, Iris Data, Adaline 2D, Dataset Cleaning, Missing Data, Handling Categorical Data, Mapping Ordinal Features, Encoding Class Labels, One-Hot Encoding on
-
+#### DiseasomeA6.gephi and DATA51000_Assignment6_MGolf-converted.pdf
+Uncovering community structures of disease classes within the human disease network. Finding communities within the human disease network will enable the identification of associative disease phenotypes as well as the genes involved. The human disease network was created by researchers through the use of the Morbid Map accessed through the Online Mendelian Inheritance in Man (OMIM). The OMIM consists of human disease genes and phenotypes for thousands of disorders and genes. Therefore, the human disease network was created by further classifying the data from the OMIM into 22 disorder classes based on the physiological system affected. Nodes represent disorders and disorders are connected if they share at least one gene where mutations are involved in both disorders. Data for the human disease network was obtained through the Gephi wiki and analyzed using Gephi.
