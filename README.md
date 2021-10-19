@@ -1,4 +1,4 @@
-# DATA51000
+# DATA51000 - Data Mining and Analytics
 Lewis University Summer 1, 2021
 
 <br />
