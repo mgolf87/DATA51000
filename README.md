@@ -25,6 +25,6 @@ For this analysis three datasets were used, two of the raw datasets (Cancer Prot
 
 <br />
 
-### Week 2 Assignment - Bayesian Decision Theory: MGolf_DATA55000_A2.ipynb 
+### Week 4 Assignment - Association Rule Mining: SmokerVNon_Smoker_DATA51000A4.ows
 #### (requires mlclass.py)
 Perceptron, Iris Data, Adaline 2D, Dataset Cleaning, Missing Data, Handling Categorical Data, Mapping Ordinal Features, Encoding Class Labels, One-Hot Encoding on Nomina
