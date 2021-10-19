@@ -26,7 +26,7 @@ For this analysis three datasets were used, two of the raw datasets (Cancer Prot
 <br />
 
 ### Week 4 Assignment - Association Rule Mining: SmokerVNon_Smoker_DATA51000A4.ows and DATA_51000_Assignment4_MGolf.docx
-Identification of candidate gene targets for therapeutic intervention to rescue gene expression in B cells from smoker to non-smoker levels. Data was accessed through the in-built dataset feature of Orange. The attached document is the report resultant from the analysis of B cells from smoker and non-smoker populations.
+Identification of candidate gene targets for therapeutic intervention to rescue gene expression in B cells from smoker to non-smoker levels. Smoking continues across multiple cultures and generations despite the known consequences and risks associated with it. In particular B cell changes are known to be directly associated to the onset of smoking-related diseases. Therefore, we sought to identify association rules of gene expression data for female smokers compared to female non-smokers (control). In doing so, we hope to uncover differential gene associations between groups which may identify candidate gene targets for intervention to reverse the effects of smoking observed in B cells. Since we are identifying candidate gene targets for intervention, we will mainly consider associations between a single gene and a set of genes. Data was accessed through the in-built dataset feature of Orange. The attached document is the report resultant from the analysis of B cells from smoker and non-smoker populations.
 
 <br />
 
@@ -36,7 +36,7 @@ Predicting transplant success based on gene expression values in kidney tissue a
 
 <br />
 
-### Week 4 Assignment - Association Rule Mining: DATA51000_Assignment5_MGolf.ows
+### Week 6 Assignment - Link Analysis: DATA51000_Assignment5_MGolf.ows
 #### (requires mlclass.py)
 Perceptron, Iris Data, Adaline 2D, Dataset Cleaning, Missing Data, Handling Categorical Data, Mapping Ordinal Features, Encoding Class Labels, One-Hot Encoding on
 
